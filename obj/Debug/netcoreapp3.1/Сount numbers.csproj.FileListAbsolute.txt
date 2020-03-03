@@ -1,0 +1,11 @@
+D:\VisualStudia\Task-2\Сount numbers\bin\Debug\netcoreapp3.1\Сount numbers.exe
+D:\VisualStudia\Task-2\Сount numbers\bin\Debug\netcoreapp3.1\Сount numbers.deps.json
+D:\VisualStudia\Task-2\Сount numbers\bin\Debug\netcoreapp3.1\Сount numbers.runtimeconfig.json
+D:\VisualStudia\Task-2\Сount numbers\bin\Debug\netcoreapp3.1\Сount numbers.runtimeconfig.dev.json
+D:\VisualStudia\Task-2\Сount numbers\bin\Debug\netcoreapp3.1\Сount numbers.dll
+D:\VisualStudia\Task-2\Сount numbers\bin\Debug\netcoreapp3.1\Сount numbers.pdb
+D:\VisualStudia\Task-2\Сount numbers\obj\Debug\netcoreapp3.1\Сount numbers.csprojAssemblyReference.cache
+D:\VisualStudia\Task-2\Сount numbers\obj\Debug\netcoreapp3.1\Сount numbers.AssemblyInfoInputs.cache
+D:\VisualStudia\Task-2\Сount numbers\obj\Debug\netcoreapp3.1\Сount numbers.AssemblyInfo.cs
+D:\VisualStudia\Task-2\Сount numbers\obj\Debug\netcoreapp3.1\Сount numbers.dll
+D:\VisualStudia\Task-2\Сount numbers\obj\Debug\netcoreapp3.1\Сount numbers.pdb
